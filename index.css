@@ -19,3 +19,13 @@ th.home {
     font-weight: lighter;
 
 }
+
+/**CSS for Education information**/
+
+td.bachelors {
+    font-weight: bold;
+}
+
+td.assoc {
+    font-weight: bold;
+}
