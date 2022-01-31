@@ -2,19 +2,14 @@ h1 {
     text-align: center;
 }
 
-p.info {
-    position: relative;
+th.number {
     text-align: left;
 }
 
-p.email {
-    position: relative;
+th.email {
     text-align: center;
-    top: -52px;
 }
 
-p.home {
-    position: relative;
-    top: -86px;
+th.home {
     text-align: right;
 }
