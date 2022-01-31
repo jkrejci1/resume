@@ -2,14 +2,20 @@ h1 {
     text-align: center;
 }
 
+/**The three below is the css for personal information**/
 th.number {
     text-align: left;
+    font-weight: lighter;
 }
 
 th.email {
     text-align: center;
+    font-weight: lighter;
+
 }
 
 th.home {
     text-align: right;
+    font-weight: lighter;
+
 }
