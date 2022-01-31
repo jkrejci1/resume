@@ -1,1 +1,20 @@
-ECHO is on.
+h1 {
+    text-align: center;
+}
+
+p.info {
+    position: relative;
+    text-align: left;
+}
+
+p.email {
+    position: relative;
+    text-align: center;
+    top: -35px;
+}
+
+p.home {
+    position: relative;
+    top: -70px;
+    text-align: right;
+}
