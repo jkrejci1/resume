@@ -1,4 +1,4 @@
 # resume
 Jack Krejci
-Portfollio
+Resume
 jacknkrejci@lewisu.edu
